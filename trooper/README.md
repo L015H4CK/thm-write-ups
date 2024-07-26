@@ -5,7 +5,7 @@ Make sure to check out TryHackMe and learn more about them on their website.
 
 **I encourage everyone to perform the given tasks themselves**, but in the past I found write-ups useful myself in case I got stuck or my answer was not in the right format.
 
-Before starting with the task(s) make sure to start AttackBox and the attached virtual machine by click the "Start Machine" button.
+Before starting with the task(s) make sure to start the AttackBox and the attached virtual machine by click the "Start Machine" button.
 When the machine is fully loaded, access the OpenCTI-Platform and ATT&CK Navigator via the AttackBox with the given credentials.
 
 # Task 1 - Who's The Threat?
