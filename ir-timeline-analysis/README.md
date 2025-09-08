@@ -77,4 +77,4 @@ Visit Timesketch and search for `message: "*app.py*"`.
 The answer can be found in the found events.
 
 ## What is the hash of the successful SSH login with the PID 1669?
-Search for `pid:"1669" message:"*successful login*` and you find the answer in the found event.
+Search for `pid:"1669" message:"*successful login*"` and you find the answer in the found event.
