@@ -48,7 +48,7 @@ Run the analzyer EVTX Gap from the sidebar and check the analysis results in the
 You might have to refresh the site for the results to be shown.
 
 ## Which search engine did Jimmy Wilson use to search for "how to disappear without a trace?"
-Use the "Browser Search" in the `Saved Searches` and add `url:"*disappear*" to find the relevant events.
+Use the "Browser Search" in the `Saved Searches` and add `url:"*disappear*"` to find the relevant events.
 
 ## What is the path of the program that was called to initiate Microsoft Antimalware Service?
 Visit the "Windows services" graph (sidebar: `Graphs`), look for the "Microsoft Antimalware Service" and click it.
